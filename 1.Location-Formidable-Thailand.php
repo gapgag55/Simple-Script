@@ -36,7 +36,7 @@
   $frm_id = 12160;
   $itemID = 60426;
 
-  $desc = "a:2:{s:7:\"browser\";s:120:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\";s:8:\"referrer\";s:83:\"http://surveyform.local/wp-admin/admin-ajax.php?action=frm_forms_preview&form=xa7xk\";}";
+  $desc = "Some description";
 
   foreach ($changwats as $changwat):
   // Array(pid, name) - $changwat
