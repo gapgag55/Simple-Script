@@ -1,9 +1,9 @@
 <?php
   //connect to mysql db
-  $servername = "192.168.95.100:4002";
-  $username = "root";
-  $password = "root";
-  $dbname = "local";
+  $servername = "some servername";
+  $username = "some username";
+  $password = "some password";
+  $dbname = "some database";
 
   // Create connection
   $conn = new mysqli($servername, $username, $password, $dbname);
